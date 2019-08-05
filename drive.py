@@ -213,7 +213,7 @@ while True :
     time.sleep(waittime)
     
     if count1 == 1:
-        print("測定値 C:",distance1,", L:",distance2,", R:",distance3,", SL:",distance4,", SR:",distance5,comment)
+        print("測定値 C:",distance1,", LF:",distance2,", RF:",distance3,", LS:",distance4,", RS:",distance5,comment)
         count1 = 0
  
 
